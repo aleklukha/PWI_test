@@ -1,2 +1,2 @@
 # PWI_test
-zmiany od B
+zmiany od BBBB
